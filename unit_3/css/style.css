@@ -1,0 +1,42 @@
+
+
+body {
+	color:purple;
+	background-color:black;
+	text-align: center;
+	font-family: verdana;
+}
+
+hr{
+	width: 400px;
+	colo:purple;
+}
+#jackie {
+	width: 700px;
+	height: 500px;
+	border-style: solid;
+	border-width: 10px;
+}
+
+ul{
+	text-align: center;
+	float:center;
+	padding: 10px;
+	list-style-type: disc;
+
+}
+
+li {
+	display: inline;
+	margin:10px;
+}
+a {
+	text-align: center;
+	font-family: verdana;
+	
+}
+
+p{
+	padding:10px;
+}
+
